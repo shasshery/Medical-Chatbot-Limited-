@@ -1,4 +1,4 @@
-# MedAssist AI — DeepSeek + LangChain Medical RAG Chatbot
+# MedAssist AI — Medical RAG Chatbot
 
 ## Run
 1. `pip install -r requirements.txt`
